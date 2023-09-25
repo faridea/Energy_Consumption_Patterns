@@ -1,1 +1,1 @@
-# Energy_consumption_patterns
+Finding similar monthly and seasonal energy consumption patterns of different houses.
